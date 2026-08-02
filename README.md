@@ -54,10 +54,8 @@ Our modern architecture relies on the industry's best tools:
 
 Interested in bringing Vels POS to your business?
 
-- 💌 **Email**: [contact@vels-pos.app](mailto:contact@vels-pos.app)
-- 🐦 **Twitter**: [@VelsPOS](https://twitter.com)
-- 🌐 **Website**: [vels-pos.app](https://vels-pos.app)
-
+- 💌 **Email**: rohanvel2006@gmail.com
+- mobile : 8838200053
 ---
 <div align="center">
   <i>Crafted with ❤️ by the Vels Team</i>
